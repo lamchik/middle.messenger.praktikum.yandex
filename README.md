@@ -1,6 +1,6 @@
 ### Проект мессенджер 
 
-https://dancing-hotteok-5f0c14.netlify.app/
+https://unrivaled-jalebi-5cb453.netlify.app/
 
 Стек проекта
 * JS

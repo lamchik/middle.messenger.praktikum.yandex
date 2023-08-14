@@ -1,78 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="859d37a8-2d1d-4bd4-9599-0d3f0d4fa40a" name="Changes" comment="">
+    <list default="true" id="093f8d95-c46a-427e-b177-e356dde49397" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.vite/deps_temp_1b5a5ca0/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/public/arrowBack.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/arrowBack.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/public/avatar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/avatar.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/public/icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/public/vite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vite.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/avatar/avatar.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/avatar/avatar.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/avatar/avatar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/avatar/avatar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/button/button.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/button.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/button/button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/buttonBack/buttonBack.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/buttonBack/buttonBack.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/buttonBack/buttonBack.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/buttonBack/buttonBack.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/buttonText/buttonText.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/buttonText/buttonText.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/buttonText/buttonText.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/buttonText/buttonText.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/icon/icon.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icon/icon.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/icon/icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icon/icon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/input/input.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/input/input.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/input/input.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/input/input.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/layouts/page.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/page.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/layouts/page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/link/link.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/link/link.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/link/link.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/link/link.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/mainTitle/mainTitle.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mainTitle/mainTitle.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/mainTitle/mainTitle.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mainTitle/mainTitle.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/profileData/profileData.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/profileData/profileData.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/profileData/profileData.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/profileData/profileData.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/text/text.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/text/text.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/text/text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/text/text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/title/title.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/title.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/title/title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/title.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/titleBlue/titleBlue.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/titleBlue/titleBlue.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/components/titleBlue/titleBlue.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/titleBlue/titleBlue.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/layout/card/loginCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/card/loginCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/layout/card/loginCard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/card/loginCard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/layout/profile/profileLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/profile/profileLayout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/layout/profile/profileLayout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/profile/profileLayout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/editPassword/editPassword.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/editPassword/editPassword.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/editPassword/editPassword.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/editPassword/editPassword.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/editProfile/editProfile.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/editProfile/editProfile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/editProfile/editProfile.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/editProfile/editProfile.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/login/login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login/login.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/main/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/main/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/main/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/main/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/page404/page400.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/page404/page400.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/page404/page400.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/page404/page400.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/page500/page500.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/page500/page500.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/page500/page500.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/page500/page500.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/profile/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/profile/profile.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/signup/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/signup/signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/pages/signup/signup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/signup/signup.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messenger/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,12 +23,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="sprint_1" />
-                    <option name="lastUsedInstant" value="1692003357" />
+                    <option name="branchName" value="deploy" />
+                    <option name="lastUsedInstant" value="1692005576" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="deploy" />
-                    <option name="lastUsedInstant" value="1692003016" />
+                    <option name="branchName" value="sprint_1" />
+                    <option name="lastUsedInstant" value="1692005469" />
                   </RecentBranch>
                 </list>
               </option>
@@ -102,85 +39,17 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2TIKLo2HnYO4KPlRJd15GIMpmry" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.16.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.39&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lamara/study/practikum/middleFront/messenger2&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/messenger" />
-      <recent name="$PROJECT_DIR$/messenger/public" />
-      <recent name="$PROJECT_DIR$/messenger/src/components/buttonBack" />
-      <recent name="$PROJECT_DIR$/messenger/src/components/buttonTextRed" />
-      <recent name="$PROJECT_DIR$/messenger/src/components/buttonTextBlue" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/messenger" />
-      <recent name="$PROJECT_DIR$/messenger/src" />
-      <recent name="$PROJECT_DIR$/messenger/src/components/mainTitle" />
-      <recent name="$PROJECT_DIR$/messenger/src/components/link" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/messenger/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="build" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="npm.build" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="859d37a8-2d1d-4bd4-9599-0d3f0d4fa40a" name="Changes" comment="" />
-      <created>1690725101358</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1690725101358</updated>
-      <workItem from="1690725102701" duration="259000" />
-      <workItem from="1690727771605" duration="18305000" />
-      <workItem from="1691353811598" duration="2909000" />
-      <workItem from="1691357078803" duration="24186000" />
-      <workItem from="1691964665064" duration="1657000" />
-      <workItem from="1691968302951" duration="10620000" />
-    </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
