@@ -21,7 +21,7 @@ export default defineConfig({
       input: {
         index: resolve(__dirname, 'index.html'),
         login: resolve(__dirname, 'src/pages/login/login.html'),
-        signUp: resolve(__dirname, 'src/pages/signUp/signUp.html'),
+        signUp: resolve(__dirname, 'src/pages/signup/signup.html'),
         page404: resolve(__dirname, 'src/pages/page404/page400.html'),
         page500: resolve(__dirname, 'src/pages/page500/page500.html'),
         main: resolve(__dirname, 'src/pages/main/main.html'),
