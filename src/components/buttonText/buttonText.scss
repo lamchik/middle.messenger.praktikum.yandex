@@ -1,0 +1,28 @@
+.buttonText {
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+    &:hover {
+        opacity: 0.8;
+    }
+}
+
+.buttonTextBlue {
+    color: #4158F6;
+    font-family: Helvetica;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 13px;
+    margin: 0;
+}
+
+.buttonTextRed {
+    color: #F00;
+    font-family: Helvetica;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 13px;
+    margin: 0;
+}

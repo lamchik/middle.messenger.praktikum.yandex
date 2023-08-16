@@ -1,0 +1,31 @@
+.profileWrapper {
+  border-bottom: 1px solid #EAEAEA;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.profileTitle {
+  color: #1E1E1E;
+  font-family: Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 13px;
+  margin: 0;
+}
+
+.profileInput {
+  color: #999;
+  text-align: right;
+  font-family: Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 13px;
+  border: none;
+  width: 50%;
+  background-color: #fff;
+  margin: 0;
+}

@@ -1,0 +1,25 @@
+{{#> layouts/page title="Login Page"}}
+  <section class="login-page">
+      {{#loginCard}}
+        <div class="wrapper">
+          <header class="header">
+            {{> icon/icon }}
+            {{> titleBlue/titleBlue value="личный кабинет" }}
+            {{> title/title value="самого лучшего в мире" }}
+            {{> title/title value="мессенджера" }}
+          </header>
+          <main>
+            <form class="forms">
+              {{> input/input name="email" type="email" placeholder="Email" }}
+              {{> input/input name="password" type="password" placeholder="Пароль" }}
+            </form>
+          </main>
+        </div>
+        <div class="wrapper">
+          {{> button/button label="Войти" }}
+          {{> link/link link="../signup/signup.html" value="Зарегистрироваться"}}
+        </div>
+      {{/loginCard}}
+    </section>
+{{/ layouts/page}}
+

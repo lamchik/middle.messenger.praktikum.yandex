@@ -1,0 +1,24 @@
+{{#> layouts/page title="Login Page"}}
+<main class="profile-page">
+  {{> buttonBack/buttonBack}}
+  {{#profileLayout}}
+  <div class="avatarWrapper">
+    {{> avatar/avatar}}
+  </div>
+
+  <form class="formsWrapper">
+    {{> profileForm/profileForm name="email" id="email" title="Почта" value="pochta@yandex.ru" inputType="email" }}
+    {{> profileForm/profileForm name="login" id="login" title="Логин" value="ivanivanov" inputType="text"}}
+    {{> profileForm/profileForm name="first_name" id="first_name" title="Имя" value="Иван" inputType="text"}}
+    {{> profileForm/profileForm name="second_name" id="second_name" title="Фамилия" value="Иванов" inputType="text"}}
+    {{> profileForm/profileForm name="display_name" id="display_name" title="Имя в чате" value="Иван" inputType="text"}}
+    {{> profileForm/profileForm name="phone" id="editTelephone" title="Телефон" value="+7(909)9673030" inputType="tel"}}
+  </form>
+  <div class="saveButton">
+    {{> button/button  label="Сохранить" }}
+
+  </div>
+  {{/profileLayout}}
+</main>
+{{/ layouts/page}}
+
