@@ -1,5 +1,5 @@
 {{#> layouts/page title="Login Page"}}
-<div class="profile-page">
+<main class="profile-page">
   {{> buttonBack/buttonBack}}
   {{#profileLayout}}
   <div class="avatarWrapper">
@@ -9,12 +9,12 @@
   </div>
 
   <div class="formsWrapper">
-      {{> profileData/profileData title="Почта" value="pochta@yandex.ru" inputType="email"}}
-      {{> profileData/profileData title="Логин" value="ivanivanov" inputType="text"}}
-      {{> profileData/profileData title="Имя" value="Иван" inputType="text"}}
-      {{> profileData/profileData title="Фамилия" value="Иванов" inputType="text"}}
-      {{> profileData/profileData title="Имя в чате" value="Иван" inputType="text"}}
-      {{> profileData/profileData title="Телефон" value="+7 (909) 967 30 30" inputType="telephone"}}
+      {{> profileData/profileData id="email" title="Почта" value="pochta@yandex.ru" inputType="email"}}
+      {{> profileData/profileData id="login" title="Логин" value="ivanivanov" inputType="text"}}
+      {{> profileData/profileData id="name" title="Имя" value="Иван" inputType="text"}}
+      {{> profileData/profileData id="surname" title="Фамилия" value="Иванов" inputType="text"}}
+      {{> profileData/profileData id="virtualName" title="Имя в чате" value="Иван" inputType="text"}}
+      {{> profileData/profileData id="telephone" title="Телефон" value="+7 (909) 967 30 30" inputType="telephone"}}
   </div>
   <div class="buttonWrapper">
     {{> buttonText/buttonText class="buttonTextBlue" value="Изменить данные"}}
@@ -22,6 +22,6 @@
     {{> buttonText/buttonText class="buttonTextRed" value="Выйти"}}
   </div>
   {{/profileLayout}}
-</div>
+</main>
 {{/ layouts/page}}
 

@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="093f8d95-c46a-427e-b177-e356dde49397" name="Changes" comment="" />
+    <list default="true" id="093f8d95-c46a-427e-b177-e356dde49397" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/profileForm/profileForm.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/profileForm/profileForm.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/avatar/avatar.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/avatar/avatar.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/buttonText/buttonText.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/buttonText/buttonText.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/input/input.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/input/input.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layouts/page.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/page.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/profileData/profileData.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/profileData/profileData.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/profileData/profileData.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/profileData/profileData.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/editPassword/editPassword.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/editPassword/editPassword.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/editProfile/editProfile.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/editProfile/editProfile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/main/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/main/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/page404/page400.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/page404/page400.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/page500/page500.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/page500/page500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/profile/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/signup/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/signup/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692054057691</updated>
-      <workItem from="1692054059185" duration="294000" />
+      <workItem from="1692054059185" duration="6665000" />
     </task>
     <servers />
   </component>
